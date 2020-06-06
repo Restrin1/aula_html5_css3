@@ -1,0 +1,37 @@
+body {  
+    background:#FAAC58;
+    margin-left: 400px;
+    margin-right: 300px;
+}
+
+
+
+nav {
+    font-size: 30px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+
+header {
+    margin-top: 70px
+}
+
+h1 {
+    color: rgb(170, 15, 15);
+    font-family: 
+}
+
+
+h2 {
+    color: purple
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+}
+
+.icone_padrao {
+    width: 30px;
+}
